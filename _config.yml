@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cheng CHEN / Site Title"
+title                    : "Cheng CHEN's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cheng CHEN Test"
-  avatar           : "Cheng_Chen_02.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Cheng CHEN"
+  avatar           : "Cheng_Chen_02.png"
+  bio              : "Research Scientist"
   location         : "Lille, France"
-  employer         :
+  employer         : "GRASP-SAS, LOA/University of Lille"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
